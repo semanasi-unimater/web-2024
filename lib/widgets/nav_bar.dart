@@ -4,7 +4,7 @@ import 'dart:async';
 
 import 'package:url_launcher/url_launcher.dart';
 
-import '../utils/Utils.dart';
+import '../utils/utils.dart';
 
 class NavBarHome extends StatelessWidget {
   const NavBarHome({super.key});

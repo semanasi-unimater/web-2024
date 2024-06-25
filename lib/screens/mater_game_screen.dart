@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:semanaacademica2024/utils/Utils.dart';
+import 'package:semanaacademica2024/utils/utils.dart';
 import 'package:semanaacademica2024/widgets/hover_button.dart';
 
 class QrCodeContainer extends StatefulWidget {
